@@ -1,1 +1,3 @@
 echo "Hello Jenkins"
+- execution
+--name: install
